@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "rionmass"
+version = "0.0.1"
+description = "Your project description here"
+authors = ["DFreireF"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
